@@ -1,4 +1,4 @@
-# Syntax highlighting and suggestion on any linux distros
+# Syntax highlighting and auto-suggestion on any linux distros
 # User guide:
 * Download zsh:
 * Debian: sudo apt-get install zsh
